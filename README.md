@@ -14,3 +14,4 @@ Swift on Lambda - with CloudWatch socket logging, stderr handling and CI
 * https://github.com/choefele/swift-lambda-app
 * https://github.com/serverless/examples/blob/master/aws-node-rest-api-with-dynamodb-and-offline/todos/get.js
 * http://docs.aws.amazon.com/lambda/latest/dg/nodejs-prog-model-logging.html
+* https://gist.github.com/gunlee01/d7425734f4310f7d9993fc613ed93a28
